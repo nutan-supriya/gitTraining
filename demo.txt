@@ -1,0 +1,5 @@
+This is demo content
+
+
+cat "This is a demo content" > demo.txt
+
